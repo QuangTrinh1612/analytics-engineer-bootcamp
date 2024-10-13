@@ -1,0 +1,5 @@
+sources:
+  - name: SAP Finance
+    schema: brz_fi
+    tables:
+      - name: productcategories
